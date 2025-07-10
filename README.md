@@ -215,4 +215,4 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/adii8/)
 
-Thank you, I look forward to connecting with you!
+**Thank you, I look forward to connecting with you!**
