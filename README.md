@@ -1,4 +1,5 @@
 # Retail Sales Analysis SQL Project
+![Spotify Logo]()
 
 ## Project Overview
 
