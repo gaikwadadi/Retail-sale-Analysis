@@ -1,5 +1,5 @@
 # Retail Sales Analysis SQL Project
-![Spotify Logo]()
+![Spotify Logo](https://github.com/gaikwadadi/Retail-sale-Analysis/blob/main/sales.jpg)
 
 ## Project Overview
 
